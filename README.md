@@ -11,7 +11,7 @@
 ## Setup
 
 ### Prep work
-ㅎㅎ
+ㅎㅎasdad
 1. Create a new public GitHub Gist (https://gist.github.com/)
 1. Create a token with the `gist` scope and copy it. (https://github.com/settings/tokens/new)
 1. Create a WakaTime account (https://wakatime.com/signup)
